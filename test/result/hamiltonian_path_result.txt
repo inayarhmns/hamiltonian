@@ -1,0 +1,12 @@
+Dataset dataset\dataset_besar1.txt. Time: 93851.71341896057 ms. Memory peak: 168975032 B.
+Dataset dataset\dataset_besar2.txt. Time: 46770.2739238739 ms. Memory peak: 168974080 B.
+Dataset dataset\dataset_besar3.txt. Time: 72816.06864929199 ms. Memory peak: 168974136 B.
+Dataset dataset\dataset_kecil1.txt. Time: 1799.0200519561768 ms. Memory peak: 8999488 B.
+Dataset dataset\dataset_kecil2.txt. Time: 1904.9975872039795 ms. Memory peak: 8999488 B.
+Dataset dataset\dataset_kecil3.txt. Time: 2201.3320922851562 ms. Memory peak: 8999488 B.
+Dataset dataset\dataset_sedang1.txt. Time: 8636.555433273315 ms. Memory peak: 41624128 B.
+Dataset dataset\dataset_sedang2.txt. Time: 9677.39748954773 ms. Memory peak: 41624128 B.
+Dataset dataset\dataset_sedang3.txt. Time: 12516.035079956055 ms. Memory peak: 41624128 B.
+Average dataset besar: Memory = 168974416 B. Time = 71146.01866404216 ms. 
+Average dataset sedang: Memory = 41624128 B. Time = 10276.662667592367 ms. 
+Average dataset kecil: Memory = 8999488 B. Time = 1968.4499104817708  ms. 
